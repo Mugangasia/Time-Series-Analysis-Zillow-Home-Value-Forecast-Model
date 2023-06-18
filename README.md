@@ -3,11 +3,15 @@
 ![image](https://github.com/Mugangasia/Time-Series-Analysis-Zillow-Home-Value-Forecast-Model/assets/98708792/a1330065-3a9c-47cd-a013-e751b0f6742b)
 
 ### Phase 4 Project - Data Science Nano Degree
-#### Moringa School
+### Moringa School
 
-# Step 1: Load the Data/Filtering for Chosen Zipcodes
+# Problem Statement 
 
-# Step 2: Data Preprocessing
+# Project Objectives 
+
+# Load the Data/Filtering for Chosen Zipcodes
+
+# Data Preprocessing
 
 
 ```python
